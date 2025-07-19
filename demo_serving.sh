@@ -1,0 +1,1 @@
+litellm --config demo_config.yaml --port 4000
